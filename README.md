@@ -49,7 +49,8 @@ The complete project documentation, including implementation details and screens
 
 ## 🎥 Demo Video
 
-The project demonstration video link is available in the **Demo** folder.
+Google Drive:
+https://drive.google.com/file/d/1UTBFqF6S4PfnvmrtSHvocH0cFUHYngXB/view?usp=sharing
 
 ## 🔒 Security Features
 
